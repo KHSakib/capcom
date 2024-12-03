@@ -1,1 +1,1 @@
-# capcom
+# Capcom
